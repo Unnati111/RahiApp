@@ -15,6 +15,7 @@
 
    <TextView
        android:layout_width="match_parent"
+       android:id="@+id/textViewTile1"
        android:layout_height="30dp"
        android:paddingLeft="10dp"
        android:paddingTop="5dp"
@@ -138,6 +139,7 @@
         <TextView
             android:layout_width="50dp"
             android:layout_height="match_parent"
+            android:id="@+id/textViewDescription1"
             android:text="New Delhi"
             android:textColor="@color/black"
             android:textStyle="bold"
